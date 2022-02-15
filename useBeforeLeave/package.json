@@ -1,0 +1,25 @@
+{
+  "name": "@hooks2022/use-before-leave",
+  "version": "1.0.0",
+  "description": "React Hook to execute a function when the mouse leaves the page. Useful to show a popup or for analytics.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heejinkim0812/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "before-leave"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heejinkim0812/react-hooks/issues"
+  },
+  "homepage": "https://github.com/heejinkim0812/react-hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

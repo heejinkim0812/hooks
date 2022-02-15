@@ -1,0 +1,25 @@
+{
+  "name": "@hooks2022/use-scroll",
+  "version": "1.0.0",
+  "description": "React Hook to get X/Y coordinates of current position of the scroll.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heejinkim0812/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "scroll"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heejinkim0812/react-hooks/issues"
+  },
+  "homepage": "https://github.com/heejinkim0812/react-hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
