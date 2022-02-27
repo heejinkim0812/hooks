@@ -1,6 +1,6 @@
 # Customized React Hooks (13)
 
-Collection of React Hooks ready to install with NPM
+Collection of React Hooks ready to install with NPM.
 
 - useInput
 - useTabs
